@@ -10,6 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@turf/turf": "^6.5.0",
+    "@wemap/react-native-wemap-livemap": "^1.4.2",
     "react": "18.0.0",
     "react-native": "0.69.1"
   },
